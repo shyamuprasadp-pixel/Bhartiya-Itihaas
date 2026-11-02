@@ -1,0 +1,6 @@
+{
+  "name": "भारतीय इतिहास - इति+ह+हास",
+  "description": "एक व्यापक भारतीय इतिहास प्रश्नोत्तरी ऐप जिसमें 2000+ वस्तुनिष्ठ प्रश्न, बहुभाषी समर्थन और 'इति+ह+हास' के दर्शन के साथ गहन ज्ञान है।",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
